@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <cc_theme id="family" studio_theme_id="custom" name="Family Guy" xsi:noNamespaceSchemaLocation="http://alvin.goanimate.org/schema/cc_library_theme.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<color r="ccSkinColor" oc="0xFFE1C4" component_type="bodyshape" enable="Y">
 		<choice>0xFFFFBA</choice>
