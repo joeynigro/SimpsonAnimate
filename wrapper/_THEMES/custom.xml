@@ -41,4 +41,7 @@
 	<char id="005" name="Baby Maggie" cc_theme_id="family" thumbnail_url="thumbnails/characters/maggie.png" copyable="Y">
 		<tags>family,_free,_cat:Simpson Family</tags>
 	</char>
+	<char id="006" name="Milhouse Van Houten" cc_theme_id="family" thumbnail_url="thumbnails/characters/milhouse.png" copyable="Y">
+		<tags>family,_free,_cat:Kids</tags>
+	</char>
 </theme>
