@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="custom" name="The Simpsons" cc_theme_id="family">
+  <char id="001" name="Homer Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/homer.png" copyable="Y">
+    <tags>family,_free,_cat:Simpson Family</tags>
+  </char>
+  <char id="002" name="Marge Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/marge.png" copyable="Y">
+    <tags>family,_free,_cat:Simpson Family</tags>
+  </char>
+  <char id="003" name="Bart Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/bart.png" copyable="Y">
+    <tags>family,_free,_cat:Simpson Family</tags>
+  </char>
+  <char id="004" name="Lisa Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/lisa.png" copyable="Y">
+    <tags>family,_free,_cat:Simpson Family</tags>
+  </char>
+  <char id="005" name="Baby Maggie" cc_theme_id="family" thumbnail_url="characters/thumbnails/maggie.png" copyable="Y">
+    <tags>family,_free,_cat:Simpson Family</tags>
+  </char>
+</theme>
