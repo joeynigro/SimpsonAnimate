@@ -7,7 +7,7 @@
 	</prop>
 	<prop id="ncc_sofa06_front.swf" name="Couch" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9005" money="0" sharing="0">
 		<tag>cat:Furniture and Fixtures</tag>
-		<colorset enable="Y" aid="9005">
+		<colorset enable="Y" aid="9006">
 			<color r="ccColorA">0xF2841E</color>
 		</colorset>
 		<c_parts enable="Y">
@@ -20,19 +20,19 @@
 	<prop id="saxophone.swf" name="Saxophone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9005" money="0" sharing="0">
 		<tag>cat:Others</tag>
 	</prop>
-	<char id="001" name="Homer Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/homer.png" copyable="Y">
+	<char id="001" name="Homer Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/homer.png" copyable="Y">
 		<tags>family,_free,_cat:Simpson Family</tags>
 	</char>
-	<char id="002" name="Marge Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/marge.png" copyable="Y">
+	<char id="002" name="Marge Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/marge.png" copyable="Y">
 		<tags>family,_free,_cat:Simpson Family</tags>
 	</char>
-	<char id="003" name="Bart Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/bart.png" copyable="Y">
+	<char id="003" name="Bart Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/bart.png" copyable="Y">
 		<tags>family,_free,_cat:Simpson Family</tags>
 	</char>
-	<char id="004" name="Lisa Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/lisa.png" copyable="Y">
+	<char id="004" name="Lisa Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/lisa.png" copyable="Y">
 		<tags>family,_free,_cat:Simpson Family</tags>
 	</char>
-	<char id="005" name="Baby Maggie" cc_theme_id="family" thumbnail_url="characters/thumbnails/maggie.png" copyable="Y">
+	<char id="005" name="Baby Maggie" cc_theme_id="family" thumbnail_url="thumbnails/characters/maggie.png" copyable="Y">
 		<tags>family,_free,_cat:Simpson Family</tags>
 	</char>
 </theme>
