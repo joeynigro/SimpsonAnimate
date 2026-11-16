@@ -2,7 +2,7 @@
 <list version="1.0">
 	<fvm_meta theme_code="" is_biz="0" />
 	<theme id="custom" name="The Simpsons" thumb="" cc_theme_id="custom" />
-	<theme id="common" name="Common" thumb="" cc_theme_id="common" />
+	<theme id="common" name="Common"/>
 	<word></word>
 	<whiteword />
 	<excludeAssetIDs />

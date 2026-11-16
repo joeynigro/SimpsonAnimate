@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="custom" name="The Simpsons" cc_theme_id="family">
-	<prop id="msp_ncc_02cup" name="Beer Pint" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_02cup_ncc_02cup01.swf" enable="Y" is_premium="N" aid="9004" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_ncc_02cup" name="Beer Pint" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_02cup_ncc_02cup01.swf" enable="Y" is_premium="N" aid="9005" money="0" sharing="0" handstyle="stick">
 		<state id="msp_ncc_02cup_ncc_02cup01.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_ncc_02cup_ncc_02cup02.swf" name="empty" enable="Y"/>
 		<tag>cat:Food and Drink</tag>
 	</prop>
 	<prop id="ncc_sofa06_front.swf" name="Couch" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9005" money="0" sharing="0">
 		<tag>cat:Furniture and Fixtures</tag>
-		<colorset enable="Y" aid="1">
+		<colorset enable="Y" aid="9005">
 			<color r="ccColorA">0xF2841E</color>
 		</colorset>
 		<c_parts enable="Y">
 			<c_area oc="">ccColorA</c_area>
 		</c_parts>
 	</prop>
-	<prop id="ncc_cloud.swf" name="Cloud" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9006" money="0" sharing="0">
+	<prop id="ncc_cloud.swf" name="Cloud" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9005" money="0" sharing="0">
 		<tag>cat:Nature</tag>
 	</prop>
-	<prop id="saxophone.swf" name="Saxophone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9007" money="0" sharing="0">
+	<prop id="saxophone.swf" name="Saxophone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9005" money="0" sharing="0">
 		<tag>cat:Others</tag>
 	</prop>
 	<char id="001" name="Homer Simpson" cc_theme_id="family" thumbnail_url="characters/thumbnails/homer.png" copyable="Y">
