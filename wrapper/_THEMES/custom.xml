@@ -4,6 +4,12 @@
 		<state id="msp_ncc_02cup_ncc_02cup01.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_ncc_02cup_ncc_02cup02.swf" name="empty" enable="Y"/>
 		<tag>cat:Food and Drink</tag>
+		<colorset enable="Y" aid="9006">
+			<color r="ccColorA">0xE4AF09</color>
+		</colorset>
+		<c_parts enable="Y">
+			<c_area oc="">ccColorA</c_area>
+		</c_parts>
 	</prop>
 	<prop id="ncc_sofa06_front.swf" name="Couch" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9005" money="0" sharing="0">
 		<tag>cat:Furniture and Fixtures</tag>
