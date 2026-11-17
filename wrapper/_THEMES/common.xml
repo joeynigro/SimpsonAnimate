@@ -223,4 +223,5 @@
 	<effect id="zoom" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Zoom" enable="Y" is_premium="N" aid="3432" money="0" sharing="0"/>
 	<effect id="cut" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Cut" enable="Y" isCut="true" is_premium="N" aid="3433" money="0" sharing="0"/>
 	<effect id="pan" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Pan" enable="Y" isPan="true" is_premium="N" aid="8233" money="0" sharing="0"/>
+	<sound id="Simpsons_Theme.mp3" name="The Simpsons Theme" downloadtype="progressive" subtype="bgmusic" duration="142864" enable="Y" is_premium="N" aid="26260" money="0" sharing="0"/>
 </theme>
