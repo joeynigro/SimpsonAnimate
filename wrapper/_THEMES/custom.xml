@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="custom" name="The Simpsons" cc_theme_id="family">
-	<background id="wall11.swf" name="Uniform" enable="Y" default="N" is_premium="N" aid="11452" money="0" sharing="0"/>
+	<background id="wall11.swf" name="Uniform" enable="N" default="N" is_premium="N" aid="11452" money="0" sharing="0"/>
 	<compositebg id="cbg_ncc_blank" name="Blank" enable="Y" default="Y" thumb="ncc_blank.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="11529">
 	<bg id="cbg_ncc_blank_BG10" index="0">
 		<file>custom.wall11.swf</file>
