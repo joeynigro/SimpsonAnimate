@@ -30,7 +30,7 @@
 	</bubble>
 	<bubble id="blanktail" x="-90" y="-45" w="180" h="90" rotate="0" type="BLANKTAIL" enable="Y" is_premium="N" aid="9152" money="0" sharing="0" hasTail="1">
 		<body rgb="0x000000" linergb="0" tailx="90" taily="65"/>
-		<text rgb="0" font="Lilita One" size="20" align="center" bold="false" italic="false">Double-click to text</text>
+		<text rgb="0" font="Coming Soon" size="20" align="center" bold="true" italic="false">Double-click to text</text>
 	</bubble>
 	<bubble id="ellipse2" x="-90" y="-45" w="180" h="90" rotate="0" type="ELLIPSE" enable="Y" is_premium="N" money="0" sharing="0" hasTail="0" colorStyle="2" aid="17295">
 		<body rgb="0xFFFFFF" shadow="0" linergb="0x666666" tailx="90" taily="65"/>
@@ -52,7 +52,7 @@
 		<body rgb="0xFFFFFF" shadow="0" linergb="0x666666" tailx="90" taily="65"/>
 		<text rgb="0" font="Coming Soon" size="14" align="center" bold="true" italic="false">Double-click to input text</text>
 	</bubble>
-	<effect id="zoom" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Zoom" enable="Y" is_premium="N" aid="3432" money="0" sharing="0" display_order="1"/>
-	<effect id="cut" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Cut" enable="Y" isCut="true" is_premium="N" aid="3433" money="0" sharing="0" display_order="2"/>
-	<effect id="pan" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Pan" enable="Y" isPan="true" is_premium="N" aid="8233" money="0" sharing="0" display_order="4"/>
+	<effect id="zoom" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Zoom" enable="Y" is_premium="N" aid="3432" money="0" sharing="0"/>
+	<effect id="cut" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Cut" enable="Y" isCut="true" is_premium="N" aid="3433" money="0" sharing="0"/>
+	<effect id="pan" x="0" y="0" w="275" h="177" rotate="0" type="ZOOM" resize="true" move="true" name="Pan" enable="Y" isPan="true" is_premium="N" aid="8233" money="0" sharing="0"/>
 </theme>
