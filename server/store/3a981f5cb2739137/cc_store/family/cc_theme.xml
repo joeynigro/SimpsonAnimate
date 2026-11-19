@@ -3963,6 +3963,9 @@
 			<tag>littleboy</tag>
 			<tag>littlegirl</tag>
 	</component>
+	<component type="nose" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="nose" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
