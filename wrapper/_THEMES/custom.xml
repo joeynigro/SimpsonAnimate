@@ -34,19 +34,22 @@
 		<tag>cat:Others</tag>
 	</prop>
 	<char id="001" name="Homer Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/homer.png" copyable="Y">
-		<tags>family,_free,_cat:Simpson Family</tags>
+		<tags>family,_free,_cat:Simpson family</tags>
 	</char>
 	<char id="002" name="Marge Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/marge.png" copyable="Y">
-		<tags>family,_free,_cat:Simpson Family</tags>
+		<tags>family,_free,_cat:Simpson family</tags>
 	</char>
 	<char id="003" name="Bart Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/bart.png" copyable="Y">
-		<tags>family,_free,_cat:Simpson Family</tags>
+		<tags>family,_free,_cat:Simpson family</tags>
 	</char>
 	<char id="004" name="Lisa Simpson" cc_theme_id="family" thumbnail_url="thumbnails/characters/lisa.png" copyable="Y">
-		<tags>family,_free,_cat:Simpson Family</tags>
+		<tags>family,_free,_cat:Simpson family</tags>
 	</char>
 	<char id="005" name="Baby Maggie" cc_theme_id="family" thumbnail_url="thumbnails/characters/maggie.png" copyable="Y">
-		<tags>family,_free,_cat:Simpson Family</tags>
+		<tags>family,_free,_cat:Simpson family</tags>
+	</char>
+	<char id="009" name="Ned Flanders" cc_theme_id="family" thumbnail_url="thumbnails/characters/ned.png" copyable="Y">
+		<tags>family,_free,_cat:Flanders family</tags>
 	</char>
 	<char id="006" name="Milhouse Van Houten" cc_theme_id="family" thumbnail_url="thumbnails/characters/milhouse.png" copyable="Y">
 		<tags>family,_free,_cat:Kids</tags>
