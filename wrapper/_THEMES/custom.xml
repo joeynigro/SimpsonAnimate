@@ -49,7 +49,10 @@
 		<tags>family,_free,_cat:Simpson Family</tags>
 	</char>
 	<char id="006" name="Milhouse Van Houten" cc_theme_id="family" thumbnail_url="thumbnails/characters/milhouse.png" copyable="Y">
-		<tags>family,_free,_cat:Kids</tags>
+		<tags>family,_free,_cat:Casual</tags>
+	</char>
+	<char id="007" name="Moe Szyslak" cc_theme_id="family" thumbnail_url="thumbnails/characters/moe.png" copyable="Y">
+		<tags>family,_free,_cat:Catering</tags>
 	</char>
 	<sound id="Simpsons_Theme.mp3" name="The Simpsons Theme" downloadtype="progressive" subtype="bgmusic" duration="142864" enable="Y" is_premium="N" aid="26260" money="0" sharing="0"/>
 </theme>
