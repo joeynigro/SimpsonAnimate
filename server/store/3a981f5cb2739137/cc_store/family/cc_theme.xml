@@ -1437,6 +1437,25 @@
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
 		</component>
+		<component type="upper_body" id="adam_apron" path="adam_apron" name="adam_apron" thumb="thumbnail.swf" display_order="230" money="0" sharing="0" enable="Y">
+			<state id="chuckle" filename="chuckle.swf"/>
+			<state id="crossed_arms" filename="crossed_arms.swf"/>
+			<state id="dance" filename="dance.swf"/>
+			<state id="default" filename="default.swf"/>
+			<state id="excited" filename="excited.swf"/>
+			<state id="fearful" filename="fearful.swf"/>
+			<state id="kneel_down" filename="kneel_down.swf"/>
+			<state id="laugh" filename="laugh.swf"/>
+			<state id="lie_down" filename="lie_down.swf"/>
+			<state id="point_at" filename="point_at.swf"/>
+			<state id="run" filename="run.swf"/>
+			<state id="sad" filename="sad.swf"/>
+			<state id="sit" filename="sit.swf"/>
+			<state id="talk" filename="talk.swf"/>
+			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
+			<state id="taunt" filename="taunt.swf"/>
+			<state id="walk" filename="walk.swf"/>
+		</component>
 	</bodyshape>
 	<bodyshape id="eve" name="Eve" default_action="stand" default_motion="walk" action_thumb="stand" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y" tag="female">
 		<default_char xscale='0.95' yscale='0.95' hxscale='1.05' hyscale='1.05' headdx='0' headdy='0'>
@@ -3457,6 +3476,8 @@
 	</component>
 	<component type="glasses" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+			<tag>littleboy</tag>
+			<tag>littlegirl</tag>
 	</component>
 	<component type="hair" id="homer_simpson" path="homer_simpson" name="homer_simpson" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -3878,6 +3899,12 @@
 		<state id="default" filename="default.swf"/>
 			<tag>littleboy</tag>
 			<tag>littlegirl</tag>
+	</component>
+	<component type="nose" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="nose" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="beard" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
