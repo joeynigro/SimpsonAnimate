@@ -51,6 +51,12 @@
 	<char id="009" name="Ned Flanders" cc_theme_id="family" thumbnail_url="thumbnails/characters/ned.png" copyable="Y">
 		<tags>family,_free,_cat:Flanders family</tags>
 	</char>
+	<char id="010" name="Ned Flanders" cc_theme_id="family" thumbnail_url="thumbnails/characters/rod.png" copyable="Y">
+		<tags>family,_free,_cat:Flanders family</tags>
+	</char>
+	<char id="011" name="Todd Flanders" cc_theme_id="family" thumbnail_url="thumbnails/characters/todd.png" copyable="Y">
+		<tags>family,_free,_cat:Flanders family</tags>
+	</char>
 	<char id="006" name="Milhouse Van Houten" cc_theme_id="family" thumbnail_url="thumbnails/characters/milhouse.png" copyable="Y">
 		<tags>family,_free,_cat:Kids</tags>
 	</char>
