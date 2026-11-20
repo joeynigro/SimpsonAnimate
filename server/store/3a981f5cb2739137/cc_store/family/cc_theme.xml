@@ -861,17 +861,6 @@
 			<tag>littleboy</tag>
 			<tag>littlegirl</tag>
 		</component>
-		<component type="lower_body" id="adam_012" path="adam_012" name="adam_012" thumb="thumbnail.swf" display_order="110" money="0" sharing="0" enable="Y">
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
 		<component type="lower_body" id="adam_009" path="adam_009" name="adam_009" thumb="thumbnail.swf" display_order="120" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
 			<state id="default" filename="default.swf"/>
@@ -1161,66 +1150,7 @@
 			<tag>littleboy</tag>
 			<tag>littlegirl</tag>
 		</component>
-		<component type="upper_body" id="adam_013" path="adam_013" name="adam_013" thumb="thumbnail.swf" display_order="120" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
 		<component type="upper_body" id="adam_010" path="adam_010" name="adam_010" thumb="thumbnail.swf" display_order="130" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-			<tag>littleboy</tag>
-		</component>
-		<component type="upper_body" id="adam_014" path="adam_014" name="adam_014" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-			<tag>littleboy</tag>
-		</component>
-		<component type="upper_body" id="adam_015" path="adam_015" name="adam_015" thumb="thumbnail.swf" display_order="150" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
 			<state id="crossed_arms" filename="crossed_arms.swf"/>
 			<state id="dance" filename="dance.swf"/>
@@ -1260,25 +1190,6 @@
 			<state id="walk" filename="walk.swf"/>
 			<tag>littleboy</tag>
 			<tag>littlegirl</tag>
-		</component>
-		<component type="upper_body" id="adam_017" path="adam_017" name="adam_017" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
 		</component>
 		<component type="upper_body" id="adam_019" path="adam_019" name="adam_019" thumb="thumbnail.swf" display_order="160" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1383,44 +1294,6 @@
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
 		</component>
-		<component type="upper_body" id="adam_a007" path="adam_a007" name="adam_a007" thumb="thumbnail.swf" display_order="190" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
-		<component type="upper_body" id="adam_a008" path="adam_a008" name="adam_a008" thumb="thumbnail.swf" display_order="200" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
 		<component type="upper_body" id="adam_a009" path="adam_a009" name="adam_a009" thumb="thumbnail.swf" display_order="210" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
 			<state id="crossed_arms" filename="crossed_arms.swf"/>
@@ -1461,25 +1334,6 @@
 			<tag>littleboy</tag>
 			<tag>littlegirl</tag>
 		</component>
-		<component type="upper_body" id="adam_a012" path="adam_a012" name="adam_a012" thumb="thumbnail.swf" display_order="230" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
 		<component type="upper_body" id="adam_apron" path="adam_apron" name="adam_apron" thumb="thumbnail.swf" display_order="230" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
 			<state id="crossed_arms" filename="crossed_arms.swf"/>
@@ -1499,7 +1353,7 @@
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
 		</component>
-		<component type="upper_body" id="adam_girl2" path="adam_girl2" name="adam_girl2" thumb="thumbnail.swf" display_order="160" money="0" sharing="0" enable="Y">
+		<component type="upper_body" id="adam_girl2" path="adam_girl2" name="adam_girl2" thumb="thumbnail.swf" display_order="230" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
 			<state id="crossed_arms" filename="crossed_arms.swf"/>
 			<state id="dance" filename="dance.swf"/>
@@ -1994,25 +1848,6 @@
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
 		</component>
-		<component type="upper_body" id="eve_013" path="eve_013" name="eve_013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
 		<component type="upper_body" id="eve_016" path="eve_016" name="eve_016" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
 			<state id="crossed_arms" filename="crossed_arms.swf"/>
@@ -2109,101 +1944,6 @@
 			<state id="walk" filename="walk.swf"/>
 		</component>
 		<component type="upper_body" id="eve_156" path="eve_156" name="eve_156" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
-		<component type="upper_body" id="eve_a002" path="eve_a002" name="eve_a002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
-		<component type="upper_body" id="eve_a003" path="eve_a003" name="eve_a003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
-		<component type="upper_body" id="eve_a005" path="eve_a005" name="eve_a005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
-		<component type="upper_body" id="eve_a004" path="eve_a004" name="eve_a004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-			<state id="chuckle" filename="chuckle.swf"/>
-			<state id="crossed_arms" filename="crossed_arms.swf"/>
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="lie_down" filename="lie_down.swf"/>
-			<state id="point_at" filename="point_at.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sad" filename="sad.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="talk" filename="talk.swf"/>
-			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
-			<state id="taunt" filename="taunt.swf"/>
-			<state id="walk" filename="walk.swf"/>
-		</component>
-		<component type="upper_body" id="eve_a006" path="eve_a006" name="eve_a006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
 			<state id="crossed_arms" filename="crossed_arms.swf"/>
 			<state id="dance" filename="dance.swf"/>
@@ -3979,9 +3719,6 @@
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="beard" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-		<state id="default" filename="default.swf"/>
-	</component>
-	<component type="ear" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="faceshape" id="025" path="025" name="025" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
